@@ -1,0 +1,7 @@
+This File contains Teacher Records
+ID 		 Name 		 Class 		 Section
+1		 Ganesh              	12 		 A
+2 		 MadhuBabu 		 5 		 D
+3 		 Suresh               	11 		 B
+4 		 Swetha 		 9 		 C
+5 		 Nayanthara 		 7 		 B
